@@ -1,0 +1,4818 @@
+<!DOCTYPE html>
+
+<html>
+
+
+
+<head>
+
+    <meta name="description" content="Главная страница" /> <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+    <title>Дворец культуры «Победа» | Главная</title>
+
+    
+
+    
+
+    <link href="/css/library_3/style.css" rel="stylesheet" type="text/css">
+
+    <link rel="stylesheet" href="/css/infoline.css">
+
+    
+
+
+
+    <script language="javascript" src="/js/jquery-1.8.3.min.js" type="text/javascript"></script>
+
+    <script language="javascript" src="/js/soundmanager/soundmanager2-nodebug-jsmin.js" type="text/javascript"></script>
+
+    <script language="javascript" src="/js/jquery.colorbox-min.js" type="text/javascript"></script>
+
+    <script language="javascript" src="/js/overall.js" type="text/javascript"></script>
+
+    <link href="/css/overall.css" rel="stylesheet" type="text/css">
+
+
+
+    <meta property="og:site_name" content="Дворец культуры «Победа»">
+
+    <meta property="og:type" content="website">
+
+    <meta property="og:locale" content="ru_RU">
+
+    <meta property="og:url" content="dkpobeda-mo.ru/">
+
+    <meta property="og:image" content="/media/2019/09/02/1264230385/LOGO_DK_NEW_kopiya.png">
+
+    <meta property="og:title" content="Главная">
+
+    
+
+
+
+    <meta content="yv7cTaPxmyzmJFm0" name="sputnik-verification" /><meta content="yv7cTaPxmyzmJFm0" name="sputnik-verification" />
+
+    
+
+    
+
+    <meta name="description" content="Главная страница" />
+
+    <meta name="keywords" content="" />
+
+
+
+    <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
+
+    <link href="/css/fonts/Philosopher/philosopher.css" rel="stylesheet" type="text/css">
+
+    <script language="javascript" src="/js/jquery.bxslider.min.js" type="text/javascript"></script>
+
+    <script language="javascript" src="/js/placeholderFix.js" type="text/javascript"></script>
+
+</head>
+
+
+
+
+
+
+
+<body>
+
+
+
+    <div class="bg">
+
+
+
+        <div class="site_container">
+
+
+
+            <div class="verh_fon">
+
+                <!-- verh_fon -->
+
+                <div class="verh">
+
+                    <!-- verh -->
+
+
+
+                    <div id="info_100">
+<div id="info_line">
+	<a href="//muzkult.ru">На главную - muzkult.ru</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="//muzkult.ru/region/mo">На страницу региона</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="//lk.eisrf.ru/user" target="_blank">Личный кабинет</a>
+</div>
+</div>
+ <a class ="mobile_version_link" href="?mobile=1"><div class="mobile_version_image" ></div>Мобильная версия</a>
+ 
+
+                    <a class="semiblind_button" href="?semiblind=1">
+
+                        <div class="semiblind_img"></div>Версия для слабовидящих</a>
+
+                    
+
+
+
+                </div>
+
+                <!-- /verh -->
+
+            </div>
+
+            <!-- /verh_fon -->
+
+
+
+            <div class="header_fon">
+
+                <div class="header">
+
+                    <!-- header -->
+
+                    <!-- LOGIN -->
+
+
+
+                    <!-- end login -->
+
+
+
+                    <div class="logo_container">
+
+                        
+
+                        <a href="/"><img class="logo" src="/media/2019/09/02/1264230385/LOGO_DK_NEW_kopiya.png" alt=""></a>
+
+                        
+
+                    </div>
+
+
+
+
+
+                    <div class="school">
+
+
+
+                        <p class="school_description">Муниципальное учреждение культуры Московской области. Основано в 1984 году. </p>
+
+                        <p class="school_name">Дворец культуры «Победа»  </p>
+
+                    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+
+                    <div class="tell_number">
+
+                        <span class="span_tell_number_1">Наш телефон:</span><span class="span_tell_number_2"><br> +7 (49646) 93293 
+
+</span>
+
+                    </div>
+
+                    
+
+
+
+                </div>
+
+                <!-- end of header -->
+
+
+
+
+
+            </div>
+
+            <!-- end of header_fon -->
+
+
+
+            <div class="afisha_fon">
+
+                <div class="afisha">
+
+
+
+                    <a href="/">Главная</a> <a href="/afisha">Афиша</a> <a href="/news">Новости</a> <a href="/gallery">Галерея</a> 
+
+
+
+                </div>
+
+
+
+            </div>
+
+            <div class="header2">
+
+                <!-- header2 -->
+
+                
+
+                <div class="slide">
+
+                    <script language="javascript">
+
+                        $(document).ready(function() {
+
+                            $('.slider').bxSlider({
+
+                                auto: true,
+
+                                autoControls: true
+
+                            });
+
+                        });
+
+                    </script>
+
+
+
+                    <ul class="slider">
+
+                        
+
+                        <li><img src="/media/2024/02/29/1341884759/Slajder_bar-lit.jpg" /></li>
+
+                        
+
+                        <li><img src="/media/2024/02/21/1341255101/Kvartirnik_slajder.jpg" /></li>
+
+                        
+
+                        <li><img src="/media/2024/02/11/1341531308/Slajder_Zolushka.jpg" /></li>
+
+                        
+
+                    </ul>
+
+                </div>
+
+                
+
+
+
+
+
+
+
+
+
+            </div>
+
+            <!-- header2 end -->
+
+
+
+
+
+
+
+            <div class="main_menu">
+
+                <!--main_menu -->
+
+                                                                                                                                                                                                                              
+
+
+
+
+
+
+
+    
+
+    
+
+        <ul id="navmenu-h">
+
+        
+
+            
+
+        
+
+
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/about">Главная</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/schedule">Общая информация</a>
+
+            
+
+        
+
+
+
+        
+
+        <ul>
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/Sotr">Сотрудники учреждения</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/profsoyuz">Наш Профсоюз</a>
+
+            
+
+        
+
+
+
+        
+
+        <ul>
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/kuskovo">Профсоюзная поездка в Кусково</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/ostafievo">Профсоюзная поездка в Остафьево</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/subbotnik">Субботники на территории ДК "Победа"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/prazdniki">Праздники, организованные профсоюзной организацией ДК "Победа"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/mosfilm">Профсоюзная поездка на Мосфильм</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/denzdorovja-2021">День здоровья - 2021</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/kolomna">Профсоюзная поездка в Коломну</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/denzdorovja-2023">День здоровья-2023</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+        </ul>
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/regulations">Документы</a>
+
+            
+
+        
+
+
+
+        
+
+        <ul>
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/klub_form">Клубные формирования</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/osn">Основные документы</a>
+
+            
+
+        
+
+
+
+        
+
+        <ul>
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/la">Локальные акты по защите персональных данных</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/mz">Муниципальное задание</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+        </ul>
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/in">Иные документы</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+        </ul>
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/anketa">Анкета потребителей услуг ДК "Победа"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/charter">Информация о деятельности</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/Nez">Независимая оценка качества оказания услуг</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+        </ul>
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/kor">Противодействие коррупции</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/afisha">Афиша</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/filialy">Наши филиалы</a>
+
+            
+
+        
+
+
+
+        
+
+        <ul>
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/spartak">Дом культуры "Спартак"</a>
+
+            
+
+        
+
+
+
+        
+
+        <ul>
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/spartak-sobytiya">Расписание мероприятий ДК "Спартак"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/spartak-kollektivy">Творческие коллективы ДК "Спартак"</a>
+
+            
+
+        
+
+
+
+        
+
+        <ul>
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/praid">Хореографический коллектив "Прайд"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/konfetti">Детский вокальный коллектив "Конфетти"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/igroland">Клуб по интересам "ИгроLand"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/kist">Изостудия "Живая кисть"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/palitra">Изостудия "Палитра"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/edelveys">Студия вокала "Эдельвейс"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/mir_idey">Клуб "Мир идей"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/golosa">Вокальный ансамбль "Голоса России"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+        </ul>
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+        </ul>
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/vereya">Культурно-досуговый центр "Верейский"</a>
+
+            
+
+        
+
+
+
+        
+
+        <ul>
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/vereya-sobytuya">Расписание мероприятий КДЦ "Верейский"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/vereya-kollektivy">Творческие коллективы КДЦ "Верейский"</a>
+
+            
+
+        
+
+
+
+        
+
+        <ul>
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/akvamarin">Вокальный коллектив "Аквамарин"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/igroteka">Игротека</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/umelye_ruchki">Умелый ручки</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/komp">Компьютерная грамотность</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/rus-pesnya-vereya">Хоровой коллектив "Русская песня"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+        </ul>
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+        </ul>
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+        </ul>
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/Kollektivi">Творческие коллективы</a>
+
+            
+
+        
+
+
+
+        
+
+        <ul>
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/vokal">Вокальное направление</a>
+
+            
+
+        
+
+
+
+        
+
+        <ul>
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/zatejniki">Образцовый коллектив "Фольклорный ансамбль «Затейники»</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/russkaja-pesnja">Народный коллектив "Хор "Русская песня"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/uvertjura">Вокальный ансамбль "Увертюра"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/kapel">Детская студия "Музыкальная капель"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/premiere">Студия эстрадного вокала "Премьера"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/impulse">Вокальная студия "Импульс"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/zateya">Фолк-группа "Затея"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+        </ul>
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/tancy">Танцевальное направление</a>
+
+            
+
+        
+
+
+
+        
+
+        <ul>
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/gravity">Студия танца "Гравитация"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/samotsvety">Студия народного танца "Самоцветы"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/solo">Танцевально-спортивный клуб «СОЛО»</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/expression">Студия эстрадно-спортивного танца "Экспрессия"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/Viento-de-faldas">Студия танца фламенко "Viento de faldas"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/assorti">Студия танца "Ассорти"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/brake_dance">Брейк-данс-школа "Funk&Flow"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/positiv">Танцевальный клуб "Позитив"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+        </ul>
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/teatr">Театральное направление</a>
+
+            
+
+        
+
+
+
+        
+
+        <ul>
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/maski">Театр-студия "Маски"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/master">Театральная студия "Фантазёры"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/chemodan">Народный коллектив "Театральная мастерская "Матрешкин чемодан"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/grad">Творческая инициатива "Театр "Град"</a>
+
+            
+
+        
+
+
+
+        
+
+        <ul>
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/grad_nagrady">Награды коллектива "Град"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+        </ul>
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+        </ul>
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/art">Художественно-прикладное направление</a>
+
+            
+
+        
+
+
+
+        
+
+        <ul>
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/izostudija">Народный коллектив "Изостудия "Отражение"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/matr">Детская студия живописи "Матрёшка" </a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/ostrov">Творческая мастерская "Остров рукоделия"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/klaksa">Студия творчества "Клякса"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+        </ul>
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/sport">Спортивно-оздоровительное направление</a>
+
+            
+
+        
+
+
+
+        
+
+        <ul>
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/kenguru">Детский спортивный клуб «Кенгуру»</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/dyhanie-2">Клуб здоровья "Второе дыхание"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/tennis-2">Настольный теннис</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/shah">Шахматный клуб</a>
+
+            
+
+        
+
+
+
+        
+
+        <ul>
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/chess-results">Результаты шахматных турниров</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+        </ul>
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/fitnes">Фитнес</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/taekvondo">Тхэквондо</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+        </ul>
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/obrazovanie">Образовательное направление</a>
+
+            
+
+        
+
+
+
+        
+
+        <ul>
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/shagi">Познавательный центр "Первые шаги"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/lingvist">Языковой клуб "Лингвист"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/math">Математический кружок</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+        </ul>
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/club">Клубы по интересам</a>
+
+            
+
+        
+
+
+
+        
+
+        <ul>
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/kinoklub">Киноклуб "Иллюзион"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/volonter">Молодёжный клуб "Я-волонтёр!"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/chillhouse">Молодёжный клуб "ЧилХаус"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/positiv-2">Танцевальный клуб "Позитив"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/shah-2">Шахматный клуб</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/dyhanie-1">Клуб здоровья "Второе дыхание"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+        </ul>
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+        </ul>
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/Elc">Электронная запись в коллективы</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/arenda">Аренда</a>
+
+            
+
+        
+
+
+
+        
+
+        <ul>
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/koncerthall">Концертный зал</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/konfhall">Конференц-зал</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/artsalon">Арт-салон</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/ballelhall">Балетный зал</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/foye">Фойе 2 этажа</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+        </ul>
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/proekty">Проекты. Фестивали. Конкурсы</a>
+
+            
+
+        
+
+
+
+        
+
+        <ul>
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/golospobedy">Конкурс "Голос Победы"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/bis">НА БИС</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/mama">Конкурс "Супер-мама"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/teatr_kulichkah">Театральный фестиваль "Театр на Куличках"</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+        </ul>
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/delo">Доброе дело</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/MediaG">Медиагалерея</a>
+
+            
+
+        
+
+
+
+        
+
+        <ul>
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/gallery">Галерея</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/Video">Видеогалерея</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+        </ul>
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/feedback">Форма обратной связи</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/otzyv">Книга отзывов</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/opros">Опрос</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/vopros">Часто задаваемые вопросы</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/kassa">Касса</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/vak">Вакансии</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/contacts">Контакты</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/ticket">Купить билет</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/rekvizity">Реквизиты организации</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+                
+
+        
+
+        
+
+        
+
+            
+
+            <li><a class="nav_links" href="/oplata">Оплата билетов (Платежная информация)</a>
+
+            
+
+        
+
+
+
+        
+
+        </li>
+
+
+
+    
+
+            
+
+        </ul>
+
+
+
+    <script type="text/javascript">
+
+        /* Hack for IE */
+
+        $(document).ready(function(){
+
+          $("#navmenu-h li,#navmenu-v li").hover(
+
+                function() { $(this).addClass("iehover"); },
+
+                function() { $(this).removeClass("iehover"); }
+
+          );
+
+        });
+
+    </script>
+
+    
+
+
+
+                <script type="text/javascript">
+
+                    /* Hack for IE */
+
+                    /*
+
+                    $(document).ready(function() {
+
+                        console.log('ok');
+
+                        var vcu_gw = $('#navmenu-h').width();
+
+
+
+                        var vcu_is = 0;
+
+                        console.log(vcu_gw);
+
+                        $('#navmenu-h>LI').each(function(inx, el) {
+
+                            vcu_is += $(el).outerWidth();
+
+                            if (vcu_is > vcu_gw) {
+
+                                vcu_is = $(el).outerWidth();
+
+                                $(el).css('background-image', 'none');
+
+                            }
+
+                        });
+
+                    });
+
+                    */
+
+                </script>
+
+
+
+                <script>
+
+                    /*  Hide element of slider when using 2-nd lvl of menu  */
+
+                    $('#navmenu-h ul li').mouseover(function() {
+
+                        $('.bx-prev').css('display', 'none');
+
+                    });
+
+                    $('#navmenu-h ul li').mouseleave(function() {
+
+                        $('.bx-prev').css('display', 'block');
+
+                    });
+
+                    $('#navmenu-h ul li').mouseover(function() {
+
+                        $('.bx-next').css('display', 'none');
+
+                    });
+
+                    $('#navmenu-h ul li').mouseleave(function() {
+
+                        $('.bx-next').css('display', 'block');
+
+                    });
+
+                    $('#navmenu-h ul li').mouseover(function() {
+
+                        $('div.bx-controls').css('display', 'none');
+
+                    });
+
+                    $('#navmenu-h ul li').mouseleave(function() {
+
+                        $('div.bx-controls').css('display', 'block');
+
+                    });
+
+                </script>
+
+
+
+            </div>
+
+            <!-- main_menu -->
+
+
+
+            <div class="site_body">
+
+
+
+
+
+
+
+                <div class="left_col">
+
+
+
+
+
+                    <div class="news_fon">
+
+                        
+
+                        <div id="news">
+
+                            <h2>Новости </h2>
+
+
+
+                                <div class="news">
+
+                                <span class="date">25-03-2024</span><br />
+
+                                <a class="title_news" href="/news/109024764">День работника культуры  </a> 
+
+                                <a href="/news/109024764"><img src="/media/2024/03/26/1340708647/YySwnZGFiY8.jpg" /></a>👏Поздравляем сотрудников  Дворца культуры «ПОБЕДА»  и наших коллег из учреждений культуры с Днем работника культуры
+
+                                <a class="details" href="/news/109024764">подробнее</a>
+
+                        </div>
+
+
+
+
+
+                             <div class="news">
+
+                                <span class="date">20-03-2024</span><br />
+
+                                <a class="title_news" href="/news/108782111">Порядок выступлений участников фестиваля "НА БИС!"   </a> 
+
+                                <a href="/news/108782111"><img src="/media/2024/03/20/1340989642/dCiHLZpafgw.jpg" /></a>Скачать расписание фестиваля и порядок выступлений можно здесь и на странице фестиваля.
+
+                                <a class="details" href="/news/108782111">подробнее</a>
+
+                        </div>
+
+
+
+
+
+                             
+
+
+
+
+
+
+
+
+
+                        <a class="all_news" href="/news">Все новости >></a>
+
+                        <div class="clearfix"></div>                             
+
+
+
+
+
+
+
+
+
+                    </div>
+
+                    
+
+                </div>
+
+
+
+
+
+                <div class="main_content">
+
+                    <!--main_content -->
+
+                    <h1>Главная</h1>
+
+                    <p class="voice vid_0_1077541_12229995_21029118" style="text-align: center;">&nbsp;</p>
+<p class="voice vid_0_1077541_12229995_21029118" style="text-align: center;"><span style="font-family: 'times new roman', times;"><b style="font-family: 'times new roman', times; font-size: 21px; text-transform: uppercase;">ДВорец культуры "Победа"</b></span></p>
+<p class="voice vid_0_1077541_12229995_21029119" style="text-align: center;"><span style="font-family: 'times new roman', times; font-size: 18px;">Режим работы:</span><br /><span style="font-family: 'times new roman', times; font-size: 18px;">&nbsp;ежедневно с 10-00 до 22-00<br /></span></p>
+<p class="voice vid_0_1077541_12229995_21029119" style="text-align: center;"><span style="color: #993300;"><strong>&nbsp;ВНИМАНИЕ!</strong></span></p>
+<p class="voice vid_0_1077541_12229995_21029119" style="text-align: center;"><span style="color: #993300;"><strong>ОТМЕНА МЕРОПРИЯТИЙ!</strong></span></p>
+<p class="voice vid_0_1077541_12229995_21029119" style="text-align: center;"><span style="text-decoration: underline;"><strong>30 марта</strong></span></p>
+<p class="voice vid_0_1077541_12229995_21029119" style="text-align: center;"><strong>Литературный открытый микрофон "Бар-лит"</strong></p>
+<p class="voice vid_0_1077541_12229995_21029119" style="text-align: center;"><span style="text-decoration: underline;"><strong>31 марта </strong></span></p>
+<p class="voice vid_0_1077541_12229995_21029119" style="text-align: center;"><strong>Детская игровая программа "Топотушки"</strong></p>
+<p class="voice vid_0_1077541_12229995_21029119" style="text-align: center;"><strong>Детский кинопоказ</strong></p>
+<p class="voice vid_0_1077541_12229995_21029119" style="text-align: center;"><strong>Воскресный вечер за столиками "Песни от всей души"</strong></p>
+<p class="voice vid_0_1077541_12229995_21029119" style="text-align: center;">&nbsp;</p>
+<p class="voice vid_0_1077541_12229995_21029119" style="text-align: center;"><span style="font-family: 'times new roman', times; font-size: 18px;">ОТКРЫТ ПРИЕМ ЗАЯВОК НА ТЕАТРАЛЬНЫЙ ФЕСТИВАЛЬ</span></p>
+<p class="voice vid_0_1077541_12229995_21029119" style="text-align: center;"><strong><a href="https://dkpobeda-mo.ru/teatr_kulichkah">ПОДРОБНОСТИ</a></strong></p>
+<p style="text-align: center;"><img src="/media/2024/03/11/1340239396/yiZ4ADkIHAg.jpg" alt="" width="300" height="300" data-file="108293366" /></p>
+<p style="text-align: center;">&nbsp;<strong>БИЛЕТЫ ОНЛАЙН</strong></p>
+<p style="text-align: center;">&nbsp;&nbsp;<a href="https://dkpobeda-mo.ru/ticket" target="_blank">&nbsp;</a><a href="https://new.biletof.com/action/?ra=12865&amp;frame=1&amp;action=7298&amp;place=134" target="_blank"><img src="/media/2024/02/15/1341494908/Zolotoj_klyuchik_Pobeda_21.04_A2_RGB.png" alt="" width="159" height="223" data-file="107189422" /></a></p>
+<p class="voice vid_0_1077541_12229995_21029119" style="text-align: center;">&nbsp;</p>
+<p class="voice vid_0_1077541_12229995_21029119" style="text-align: center;"><a href="https://dk.mosreg.ru/dk/pobeda"><img src="/media/2022/01/19/1307435629/Knopka_e_lektronnaya_zapis.jpg" alt="" width="334" height="40" data-file="75227327" /></a></p>
+<p style="text-align: center;">&nbsp;</p>
+<hr />
+<p class="voice vid_0_1077541_12229995_14985383" style="font-size: medium; text-align: center;">&nbsp;</p>
+<p class="voice vid_0_1077541_12229995_14985383" style="font-size: medium; text-align: center;"><strong>Мы в сети интернет:</strong></p>
+<p style="text-align: center;">&nbsp;<a href="https://vk.com/dk_pobeda"><img style="width: 60px; height: 60px;" src="/media/2018/08/14/1227661218/image_image_3035926.png" alt="" /></a>&nbsp;&nbsp;<a href="https://ok.ru/profile/575841550062"><img style="width: 60px; height: 59px;" src="/media/2018/08/14/1227661217/image_image_3035927.png" alt="" /></a>&nbsp;&nbsp;<a href="https://dk.mosreg.ru/" target="_blank"></a><a href="https://dk.mosreg.ru/dk/pobeda" target="_blank"><img src="/media/2023/04/03/1275561225/Gis_logo.jpg" alt="" width="55" height="60" data-file="93423579" /></a></p>
+<h1 style="text-align: center;">&nbsp;</h1>
+
+
+
+
+<!-- include from yashare.tmpl -->
+
+<script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<!--script src="//yastatic.net/share2/share.js"></script>
+<div class="ya-share2" data-services="vkontakte,facebook,odnoklassniki,moimir,gplus,twitter"></div-->
+
+<script src="//yastatic.net/share2/share.js"></script>
+<div class="ya-share2" data-services="vkontakte,odnoklassniki,moimir,telegram"></div>
+
+                </div>
+
+                <!--main_content -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </div>
+
+            <!-- end of left_col -->
+
+
+
+            <div class="right_col">
+
+                <!-- right_col -->
+
+
+
+
+
+
+
+                <!-- Календарь -->
+
+                
+
+                <div class="calendar_container">
+
+                    <div class="calendar_title">Календарь событий</div>
+
+
+
+                        
+    
+    <div class="calendar">
+        <div id="months_titles">
+            
+            <a class="previous_month" href="/afisha/2024/2/?calendar_year=2024&calendar_month=2">&lt;&lt;</a>
+            
+            <span class="month_title">
+                <a href="/afisha/2024/3/?calendar_year=2024&calendar_month=3">
+                    Март
+                </a>
+            </span>
+            
+            <a class="next_month" href="/afisha/2024/4/?calendar_year=2024&calendar_month=4">&gt;&gt;</a>
+        </div>
+        <div style="clear:both;"></div>
+        <table border="1" cellpadding="0" cellspacing="2" class="calendar">
+            <tbody>
+                <tr class="weekdays">
+                    <td class="">Пн</td>
+                    <td class="">Вт</td>
+                    <td class="">Ср</td>
+                    <td class="">Чт</td>
+                    <td class="">Пт</td>
+                    <td class=" selected weekend">Сб</td>
+                    <td class=" weekend">Вс</td>
+                </tr>
+                
+                
+                    <tr class="week">
+                        
+                            
+                                <td class="empty">&nbsp;</td>
+                            
+                        
+                            
+                                <td class="empty">&nbsp;</td>
+                            
+                        
+                            
+                                <td class="empty">&nbsp;</td>
+                            
+                        
+                            
+                                <td class="empty">&nbsp;</td>
+                            
+                        
+                            
+                                <td class="day has_events">
+                                    <a href="/afisha/2024/3/1/?calendar_year=2024&calendar_month=3" title="18:00 - Рам-арт&#013;">
+                                        1
+                                    </a>
+                                </td>
+                            
+                        
+                            
+                                <td class="day weekend has_events">
+                                    <a href="/afisha/2024/3/2/?calendar_year=2024&calendar_month=3" title="09:00 - Хрустальная звезда&#013;">
+                                        2
+                                    </a>
+                                </td>
+                            
+                        
+                            
+                                <td class="day weekend has_events">
+                                    <a href="/afisha/2024/3/3/?calendar_year=2024&calendar_month=3" title="17:00 - Мы любим котиков&#013;13:00 - Детский кинопоказ&#013;11:00 - Топотушки&#013;">
+                                        3
+                                    </a>
+                                </td>
+                            
+                        
+                    </tr>
+                
+                    <tr class="week">
+                        
+                            
+                                <td class="day">
+                                    <a  >
+                                        4
+                                    </a>
+                                </td>
+                            
+                        
+                            
+                                <td class="day">
+                                    <a  >
+                                        5
+                                    </a>
+                                </td>
+                            
+                        
+                            
+                                <td class="day has_events">
+                                    <a href="/afisha/2024/3/6/?calendar_year=2024&calendar_month=3" title="18:00 - Круизное приключение&#013;">
+                                        6
+                                    </a>
+                                </td>
+                            
+                        
+                            
+                                <td class="day">
+                                    <a  >
+                                        7
+                                    </a>
+                                </td>
+                            
+                        
+                            
+                                <td class="day has_events">
+                                    <a href="/afisha/2024/3/8/?calendar_year=2024&calendar_month=3" title="18:00 - Пять жар-птиц в поместье ворона&#013;18:00 - Кинопоказ&#013;">
+                                        8
+                                    </a>
+                                </td>
+                            
+                        
+                            
+                                <td class="day weekend has_events">
+                                    <a href="/afisha/2024/3/9/?calendar_year=2024&calendar_month=3" title="12:00 - Сказ про Федота-стрельца, удалого молодца&#013;18:00 - Вечер за столиками&#013;">
+                                        9
+                                    </a>
+                                </td>
+                            
+                        
+                            
+                                <td class="day weekend has_events">
+                                    <a href="/afisha/2024/3/10/?calendar_year=2024&calendar_month=3" title="12:00 - Супер-мама&#013;13:00 - Кинопоказ&#013;">
+                                        10
+                                    </a>
+                                </td>
+                            
+                        
+                    </tr>
+                
+                    <tr class="week">
+                        
+                            
+                                <td class="day">
+                                    <a  >
+                                        11
+                                    </a>
+                                </td>
+                            
+                        
+                            
+                                <td class="day has_events">
+                                    <a href="/afisha/2024/3/12/?calendar_year=2024&calendar_month=3" title="18:00 - Кинопоказ&#013;">
+                                        12
+                                    </a>
+                                </td>
+                            
+                        
+                            
+                                <td class="day has_events">
+                                    <a href="/afisha/2024/3/13/?calendar_year=2024&calendar_month=3" title="17:00 - Танцы 55+&#013;">
+                                        13
+                                    </a>
+                                </td>
+                            
+                        
+                            
+                                <td class="day">
+                                    <a  >
+                                        14
+                                    </a>
+                                </td>
+                            
+                        
+                            
+                                <td class="day has_events">
+                                    <a href="/afisha/2024/3/15/?calendar_year=2024&calendar_month=3" title="18:00 - Киноклуб "Иллюзион"&#013;15:00 - Леса Подмосковья&#013;18:00 - Рисуем на шопперах&#013;">
+                                        15
+                                    </a>
+                                </td>
+                            
+                        
+                            
+                                <td class="day weekend">
+                                    <a  >
+                                        16
+                                    </a>
+                                </td>
+                            
+                        
+                            
+                                <td class="day weekend has_events">
+                                    <a href="/afisha/2024/3/17/?calendar_year=2024&calendar_month=3" title="12:00 - Народные гуляния "Широкая масленица"&#013;">
+                                        17
+                                    </a>
+                                </td>
+                            
+                        
+                    </tr>
+                
+                    <tr class="week">
+                        
+                            
+                                <td class="day">
+                                    <a  >
+                                        18
+                                    </a>
+                                </td>
+                            
+                        
+                            
+                                <td class="day has_events">
+                                    <a href="/afisha/2024/3/19/?calendar_year=2024&calendar_month=3" title="18:00 - Кинопоказ&#013;">
+                                        19
+                                    </a>
+                                </td>
+                            
+                        
+                            
+                                <td class="day">
+                                    <a  >
+                                        20
+                                    </a>
+                                </td>
+                            
+                        
+                            
+                                <td class="day">
+                                    <a  >
+                                        21
+                                    </a>
+                                </td>
+                            
+                        
+                            
+                                <td class="day has_events">
+                                    <a href="/afisha/2024/3/22/?calendar_year=2024&calendar_month=3" title="18:00 - Квартирник&#013;">
+                                        22
+                                    </a>
+                                </td>
+                            
+                        
+                            
+                                <td class="day weekend has_events">
+                                    <a href="/afisha/2024/3/23/?calendar_year=2024&calendar_month=3" title="12:00 - Золушка&#013;15:00 - На бис!&#013;">
+                                        23
+                                    </a>
+                                </td>
+                            
+                        
+                            
+                                <td class="day weekend has_events">
+                                    <a href="/afisha/2024/3/24/?calendar_year=2024&calendar_month=3" title="11:00 - Звездная россыпь&#013;19:00 - Молодёжная дискотека&#013;">
+                                        24
+                                    </a>
+                                </td>
+                            
+                        
+                    </tr>
+                
+                    <tr class="week">
+                        
+                            
+                                <td class="day">
+                                    <a  >
+                                        25
+                                    </a>
+                                </td>
+                            
+                        
+                            
+                                <td class="day has_events">
+                                    <a href="/afisha/2024/3/26/?calendar_year=2024&calendar_month=3" title="18:00 - Кинопоказ&#013;">
+                                        26
+                                    </a>
+                                </td>
+                            
+                        
+                            
+                                <td class="day today">
+                                    <a  >
+                                        27
+                                    </a>
+                                </td>
+                            
+                        
+                            
+                                <td class="day has_events">
+                                    <a href="/afisha/2024/3/28/?calendar_year=2024&calendar_month=3" title="18:30 - Прекрасное рядом&#013;">
+                                        28
+                                    </a>
+                                </td>
+                            
+                        
+                            
+                                <td class="day has_events">
+                                    <a href="/afisha/2024/3/29/?calendar_year=2024&calendar_month=3" title="19:00 - Творческая встреча с актером театра и кино Владимиром Конкиным&#013;">
+                                        29
+                                    </a>
+                                </td>
+                            
+                        
+                            
+                                <td class="day weekend has_events">
+                                    <a href="/afisha/2024/3/30/?calendar_year=2024&calendar_month=3" title="11:00 - Fenomen&#013;">
+                                        30
+                                    </a>
+                                </td>
+                            
+                        
+                            
+                                <td class="day weekend has_events">
+                                    <a href="/afisha/2024/3/31/?calendar_year=2024&calendar_month=3" title="16:00 - Мне снился сон&#013;">
+                                        31
+                                    </a>
+                                </td>
+                            
+                        
+                    </tr>
+                
+                
+                
+                
+            </tbody>
+        </table>
+    </div>
+
+
+
+                    <div class="afisha_info"><span class="afisha_color">&nbsp;</span> Дни мероприятий</div>
+
+                </div>
+
+                
+
+                <!-- - - - - - - - - - - - - - - - -->
+
+
+
+
+
+                <!--   SEARCH   -->
+
+                <div class="search">
+
+                    <h2>Поиск</h2>
+
+                    <form method="get" action="/search">
+
+                        <input name="q" value="" placeholder="Поиск" class="search_bar"> <input type="submit" class="search_button" value="">
+
+                    </form>
+
+                </div>
+
+                <!--end search-->
+
+
+
+
+
+                
+
+                <div class="feedback">
+
+    
+    <h2 class="feedback_page_title">Форма обратной связи</h2>
+    
+    <form method="post" enctype="multipart/form-data" action="/feedback">
+            
+            
+            
+            
+            <div style="color:red;padding:10px 10px;font-weight:bold" id="rslt-msg-cntnr"></div>
+        
+            <label for="email">E-Mail*</label>
+            <input type="email" id="email" name="email" value="">
+            <br>
+        
+        
+            <label for="name">Представьтесь*</label>
+            <input type="text" id="name" name="name" value="">
+            <br>
+        
+        
+            <label class="textarea">Сообщение*</label>
+            <textarea name="message" ></textarea>
+            <br>
+        
+        
+            <label class="code">Введите код на изображении:</label>
+            <img id="captcha" src="/media/captcha/35c5e3cf2d65eeb4f2a08ff113d26953.png" title="Прослушать капчу" class="playSoundButton" onclick="_playSound('playCaptcha',this)" >
+            <br>
+            
+            <label for="code">Код*</label>
+            <input type="text" id="code" name="code">
+            <input type="hidden" name="captcha_hash" value="35c5e3cf2d65eeb4f2a08ff113d26953">
+            <br>
+            
+            
+            
+            <input id="agree" type="checkbox" name="agree" value="1" checked>
+            <label for="agree">Я согласен(а) на <a href="/m/processing_agree">обработку моих персональных данных</a>*</label>
+
+            <label class="required_fields">* - обязательные поля для заполнения</label>
+        
+            
+        
+        
+            <input type="submit" class="send" name="send" value="Отправить">
+        
+        
+    </form>
+
+    
+</div>
+
+                
+
+
+
+                <div class="addres">
+
+                    <h4>Контакты</h4>
+
+                    <p><p>
+<script src="https://pos.gosuslugi.ru/bin/script.min.js"></script>
+<script>$(document).ready(function(){
+var url=$(location).attr('href');
+if ((url=="https://dkpobeda-mo.ru/")||(url=="https://dkpobeda-mo.ru/about")||(url=="https://dk-pobeda.mo.muzkult.ru/")||(url=="https://dk-pobeda.mo.muzkult.ru/about")) {
+$('.left_col').prepend('<div id="pos"></div><p style="text-align: justify; font-size: 12px;"></br><b>Сообщение. Пилотный проект</b>. Данная форма не предназначена для приема обращений граждан в порядке Федерального закона от&nbsp; 02.05.2006 № 59-ФЗ &laquo;О порядке рассмотрения обращений граждан Российской Федерации&raquo; и предоставляет возможность направить&nbsp; электронное сообщение в рамках реализации пилотного проекта по внедрению &laquo;Единого окна цифровой обратной связи&raquo;. Ответ на&nbsp;сообщение будет направлен не позднее 8 рабочих дней после дня его регистрации, а по отдельным тематикам &ndash; в укороченные сроки.</p></p>');
+$('#pos').load('/media/2023/07/24/1282851730/pos.html'); }});
+</script>
+<script>Widget("https://pos.gosuslugi.ru/form", 346888)</script>
+</p>
+<div style="text-align: center;"><span style="color: #696969;"><strong><span style="font-family: verdana,geneva,sans-serif;"><span style="font-size: 12px;">140140</span></span></strong></span></div>
+<div style="text-align: center;"><span style="color: #696969;"><strong><span style="font-family: verdana,geneva,sans-serif;"><span style="font-size: 12px;">Московская область</span></span></strong></span></div>
+<div style="text-align: center;"><span style="color: #696969;"><strong><span style="font-family: verdana,geneva,sans-serif;"><span style="font-size: 12px;">Раменский&nbsp;городской округ</span></span></strong></span></div>
+<div style="text-align: center;"><span style="color: #696969;"><strong><span style="font-family: verdana,geneva,sans-serif;"><span style="font-size: 12px;">пос. Уд</span></span></strong></span><strong style="color: #696969;"><span style="font-family: verdana,geneva,sans-serif;"><span style="font-size: 12px;">ельная</span></span></strong></div>
+<div style="text-align: center;"><span style="color: #696969;"><strong><span style="font-family: verdana,geneva,sans-serif;"><span style="font-size: 12px;">ул. Солнечная, д. 35</span></span></strong></span>&nbsp;</div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center;">&nbsp;<a href="https://dkpobeda-mo.ru/?semiblind=1"><img src="/media/2020/11/05/1241640431/ver_slv.png" alt="" width="209" height="123" data-file="60288829" /></a>&nbsp;</div>
+<div style="text-align: center;"><a href="https://new.biletof.com/events/?places=134&amp;frame=1"><img src="/media/2021/12/06/1308096463/Knopka_bilet_onlajn-2.jpg" alt="" width="210" height="70" data-file="73528605" /></a></div>
+<div style="text-align: center;"><a href="https://dk-pobeda.mo.muzkult.ru/Elc/"><img src="/media/2022/08/11/1298295924/Knopka_zapis_v_kruzhki.jpg" alt="" width="210" height="94" data-file="83127974" /></a></div>
+<div style="text-align: center;">&nbsp;<a href="https://culture.gosuslugi.ru/"><img src="/media/2022/08/03/1298406957/pushkinskaya.jpg" alt="" width="210" height="125" data-file="82975999" /></a>&nbsp;</div>
+<div style="text-align: center;"><a href="https://dkpobeda-mo.ru/delo"><img src="/media/2024/01/19/1338398487/Sbor_gumanitarnoj_pomoshhi_knopka.jpg" alt="" width="212" height="75" data-file="105928133" /></a></div>
+<div style="text-align: center;"><strong style="text-align: center;"><span style="font-family: georgia, serif;"><span style="font-size: 14px;"><span style="color: #d3d3d3;"><a href="http://mkrf.ru"><img style="width: 210px; height: 63px;" src="/media/2018/06/29/1240550646/image_image_4591137.jpg" alt="" /></a></span></span></span></strong></div>
+<div style="text-align: center;"><strong style="text-align: center;"><span style="font-family: georgia, serif;"><span style="font-size: 14px;"><a href="http://mk.mosreg.ru"><span style="color: #d3d3d3;"><img style="width: 210px; height: 63px;" src="/media/2018/06/29/1240550647/image_image_4591136.jpg" alt="" /></span></a></span></span></strong></div>
+<div style="text-align: center;"><strong style="text-align: center;"><span style="font-family: georgia, serif;"><span style="font-size: 14px;"><span style="color: #d3d3d3;"><a href="http://ramkult.mo.muzkult.ru/"><img style="width: 210px; height: 63px;" src="/media/2020/06/05/1254898000/knopka_komiteta.jpg" alt="" width="210" height="63" data-file="56245122" /></a></span></span></span></strong></div>
+<div style="text-align: center;"><strong><span style="font-family: georgia,serif;"><span style="font-size: 14px;"><a href="https://www.gosuslugi.ru"><span style="color: #a9a9a9;"><img style="width: 210px; height: 63px;" src="/media/2018/06/29/1240550650/image_image_4591134.jpg" alt="" /></span></a></span></span></strong></div>
+<div style="text-align: center;">&nbsp;</div>
+<p>
+<script type="text/javascript">
+       (function(d, t, p) {
+           var j = d.createElement(t); j.async = true; j.type = "text/javascript";
+           j.src = ("https:" == p ? "https:" : "http:") + "//stat.sputnik.ru/cnt.js";
+           var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);
+       })(document, "script", document.location.protocol);
+    </script>
+<script src="https://forma1.ru/disclaimer"></script>
+</p><p><span id="sputnik-informer"></span></p></br>
+
+
+
+                        <div class="addres_tel_number">
+
+                            
+
+                            <b>Тел:</b> <br />+7 (49646) 93293 
+
+<br /> 
+
+                        </div>
+
+                    </p>
+
+                </div>
+
+
+
+
+
+
+
+
+
+                <!--                                                                                                                                                                                                                                         
+
+MK_TMPL_Module: Яндекс:карты непосредственно на сайтах школ.
+
+-->
+
+
+
+
+
+
+
+<script src="//api-maps.yandex.ru/2.1/?lang=ru_RU" type="text/javascript"></script>
+
+
+
+    <script type="text/javascript">
+
+        
+
+        ymaps.ready(init);
+
+        
+
+
+
+        var myMap, 
+
+            myPlacemark;
+
+
+
+        function init(){ 
+
+            myMap = new ymaps.Map("yandex_map", {
+
+                center: [55.629845800965384,38.05394227531885],
+
+                zoom: 13,
+
+                controls: ['smallMapDefaultSet'],
+
+            }); 
+
+
+
+            myPlacemark = new ymaps.Placemark([55.629845800965384,38.05394227531885], {
+
+                //hintContent: 'Москва!',
+
+                balloonContent: 'Дворец культуры «Победа» ',
+
+            });
+
+            
+
+            myMap.geoObjects.add(myPlacemark);
+
+        }
+
+    </script>
+
+
+
+<div id="yandex_map" class="yaMap_style"></div>
+
+
+
+
+
+
+
+
+
+            </div>
+
+            <!-- right_col -->
+
+
+
+
+
+
+
+
+
+            <!--===========================================-->
+
+
+
+        </div>
+
+        <!-- endsite body -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <!-- Adding buttom "Scroll to top" -->
+
+        <a id="goTop" title="Вернуться к началу страницы"></a>
+
+
+
+        <script type="text/javascript">
+
+            $('input, textarea').placeholder();
+
+        </script>
+
+
+
+        <script type="text/javascript">
+
+            $('.news:nth-child(2)').addClass('news2');
+
+        </script>
+
+
+
+
+
+        
+
+
+<script type="text/javascript">
+    (function(d, t, p) {
+        var j = d.createElement(t); j.async = true; j.type = "text/javascript";
+        j.src = ("https:" == p ? "https:" : "http:") + "//stat.sputnik.ru/cnt.js";
+        var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);
+    })(document, "script", document.location.protocol);
+</script>
+
+
+
+
+
+
+
+        <div class="h_footer">&nbsp;</div>
+
+    </div>
+
+    <!-- end site conteiner -->
+
+
+
+
+
+    <!-- Footer -->
+
+    <div class="footer">
+
+
+
+        <div class="footer_content">
+
+            <p class="copyright">
+
+ &copy; Дворец культуры «Победа» . Использование материалов сайта согласуется с администрацией учреждения.<br />Разработка и дизайн сайта <a class="copyright_about" href="//muzkult.ru/about">muzkult.ru</a><br /><a class="sm_map" href="/sitemap">Карта сайта</a> | <a class="conf_policy" href="/m/privacy_policy">Политика конфиденциальности</a>
+ </p>
+
+            
+
+<style>
+
+div#metrika {
+
+	display: block;
+
+	/*position: absolute;*/
+
+    
+
+    background-image: url(/img/metrika/bg-brown.png);
+
+	width: 122px;
+
+	height: 47px;
+
+	border: none;
+
+	font-family: Arial;
+
+	font-size: 14px;
+
+	line-height: 13px;
+
+}
+
+
+
+
+
+p.count { position: absolute; color: #3b355e; font-size: 10px; padding: 0; margin: 0; }
+
+.count:hover { cursor: help; }
+
+
+
+div#metrika p.all_shows { margin-top: 3px; margin-left: 4px; left: 0;}
+
+div#metrika p.all_visits { margin-top: 16px; margin-left: 4px; left: 0}
+
+
+
+div#metrika p.shows { width: 60px; right: 16px; text-align: right; top: 0px; }
+
+div#metrika p.visits { width: 60px; right: 16px; text-align: right; margin-top: 10px; }
+
+div#metrika p.visitors { width: 60px; right: 16px; text-align: right; margin-top: 21px;}
+
+</style>
+
+
+
+<div id="metrika">
+
+	<p class="count all_shows" title="Всего просмотров">2211786</p>
+
+	<p class="count all_visits" title="Всего визитов">1405623</p>
+
+	<p class="count shows" title="Просмотров сегодня">557</p>
+
+	<p class="count visits" title="Визитов сегодня">458</p>
+
+	<p class="count visitors" title="Посетителей сегодня">458</p>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </div>
+
+    </div>
+
+
+
+    </div>
+
+    <!-- end BG -->
+
+
+
+</body>
+
+
+
+</html>
